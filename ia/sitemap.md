@@ -15,6 +15,8 @@
 - Different Habitats
 
 - Monkey Anatomy
+	- Monkeys compaired to humans
 
 - Monkey Behaviors
-		
+	- Feeding Behavior
+	- ect.
