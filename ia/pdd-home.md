@@ -4,14 +4,17 @@
 
 - Link to the two monkey categories
 - Overview of what is a monkey
-- Search 
+- General facts about behvaior
+- General facts about feeding habits
+- General facts about habitat
 
 
 ## 2. Medium
-
+- Search 
+- List of different monkey species
 - Website branding, logo
 - Primary navigation
-- List of different monkey species
+
 
 ## 3. Low
 
