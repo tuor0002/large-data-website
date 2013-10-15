@@ -1,0 +1,27 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Michaela Tuor <tuor0002@algonquinlive.com>
+Github: http://github.com/tuor0002
+Location: Ottawa, On
+
+# THANKS
+
+Profesor: Thomas J Bradley
+Friend: Lisa, Tirzah, Kathryn
+
+# TECHNOLOGY
+
+Mac Book Pro
+
+## SOFTWARE
+
+- Dreamweaver
+- Git + Github
+- jekyll
+- Markdown
+
+## HOSTING
+
+-Github: http://github.com
