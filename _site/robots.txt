@@ -1,0 +1,5 @@
+Sitemap: http://monkeys.com/sitemap.xml
+
+User-Agent: *
+Disallow: 
+

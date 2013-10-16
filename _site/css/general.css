@@ -1,0 +1,97 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width;	scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+
+html {
+	height: 100%;
+	font-size: 100%;
+	background-color: #FFF;
+}
+
+
+header {
+	background-color: #CCE79F;
+	padding: 0%;
+}
+
+.searchbar {
+	font-family:"Helvetica",Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Arial, sans-serif;
+	padding: 2% 1% 1% 1%;
+	float: left;
+}
+
+nav ul {
+	list-style-type: none; 
+	text-align: right;
+}
+
+
+nav li {
+	display: inline;
+}
+
+
+nav a, 
+nav a:link,
+nav a:visited {
+	font-family: 'Chango', cursive;
+	display: inline-block;
+	margin: 0 1%;
+	padding: 2% 1%;
+	color: #453624;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+nav a:hover, 
+nav a:focus,
+nav a:active {
+	border-radius:60px;
+	background-color: #F8F6E6;
+}
+
+
+h1{ 
+	font-family: 'Chango', cursive;
+	text-align: center;
+	color: #729C4C;
+	font-size: 3em;
+}
+	
+h2{ 
+	font-family: 'Chango', cursive;
+	text-align: left;
+	color: #453624;
+	font-size: 1.5em;
+}
+
+.flex-img{
+	display: block;
+	width: 100%;
+}
+
+p {
+	font-family: "Helvetica",Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Arial, sans-serif;
+	text-align: left;
+	color: #000;
+	font-size: 1.4em;
+}
+	
+
+@media only screen and (min-width:20em){
+
+nav ul {
+	text-align: center;
+}
+
+}
+
+@media only screen and (min-width:90em){
+nav ul {
+	text-align: right;
+}
+
+}
