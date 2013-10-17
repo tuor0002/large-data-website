@@ -2,4 +2,4 @@ markdown: redcarpet
 
 baseurl: /large-data-website
 
-exclude: ['ai', 'visual-style', 'README.md']
+exclude: ['ia', 'visual-style', 'README.md']
