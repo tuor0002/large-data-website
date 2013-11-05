@@ -42,10 +42,15 @@
 
 -->
 
-<body>
+<body id="top">>
+	
+	<ul class="skiplinks">
+		<li><a href="#main"> Skip to primary content </a> </li>
+		<li><a href="#complementary">skip to secondary content </a></li>
+		<li> <a href="#navigation"> skip to navigation </a> </li>
+	</ul>
 
-
-			<nav> 
+			<nav role="navigation" id="nav"> 
 				<ul>
 					<li> <a href="{{site.baseurl}}/index.html" rel="home"> Home </a> </li>
 					<li> <a href="{{site.baseurl}}/species.html" rel="species"> Monkey Types</a> </li>
@@ -81,8 +86,9 @@
 </div>
 	
 		<header>
-			<nav> 
+			<nav role="navigation" id="nav"> 
 				<ul>
+					<li> <a href= "#top"> Top </a> </li>
 					<li> <a href="{{site.baseurl}}index.html" rel="home"> Home </a> </li>
 					<li> <a href="{{site.baseurl}}species.html" rel="species"> Monkey Types</a> </li>
 					<li> <a href="{{site.baseurl}}/habitats.html" rel="habitats"> Habitats </a> </li>
