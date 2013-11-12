@@ -17,12 +17,6 @@ header {
 	padding: 0%;
 }
 
-.searchbar {
-	font-family:"Helvetica",Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Arial, sans-serif;
-	padding: 2% 1% 1% 1%;
-	float: left;
-}
-
 nav ul {
 	list-style-type: none; 
 	text-align: right;
