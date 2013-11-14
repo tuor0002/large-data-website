@@ -28,19 +28,19 @@ nav li {
 }
 
 .arrow {
-	max-width: 30px;
+	max-width: 20px;
 	padding: 0% 1% 0% 1%;
 }
 
 nav a, 
 nav a:link,
 nav a:visited {
-	font-family: 'Chango', cursive;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, "Georgia", serif;
 	display: block;
 	margin: 0 1%;
 	padding: 2% 1%;
 	color: #453624;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-decoration: none;
 }
 
@@ -57,6 +57,7 @@ h1{
 	text-align: center;
 	color: #729C4C;
 	font-size: 3em;
+	padding: 0%;
 }
 	
 h2{ 
@@ -103,7 +104,6 @@ a:visited {
 
 nav ul {
 	list-style-type: none; 
-	text-align: right;
 }
 
 nav a, 
@@ -112,6 +112,7 @@ nav a:visited {
 	display: inline-block;
 }
 
+	
 .logo {
 	width:45%;
 	display: none;
